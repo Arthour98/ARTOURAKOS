@@ -32,5 +32,5 @@ $(this).css(
     }
 )
 })
-
+console.log("SHENI DEDA MOTHAN");
 
