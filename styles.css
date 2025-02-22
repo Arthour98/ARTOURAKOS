@@ -51,7 +51,7 @@ display:none;
 }
 button#show-display
 {
-background-color:coral;
+background-color:red;
 border-radius:25px;
 padding:10px 5px;
 cursor:pointer;
